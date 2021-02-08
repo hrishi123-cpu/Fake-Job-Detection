@@ -21,7 +21,13 @@ Perform the following using “fake_job_postings.csv”
 3)	 Perform EDA on the dataset using visualization such as bar plot, Box  plot , count plot etc. .
 4)	 Apply standard scaling to standardize the data if necessary.
 5)	 Split the data into training and testing.
-6)	 Apply Logistic regression, Decision tree , Random forest, KNN & SVM to the same dataset and find :-
+6)	 Apply 
+Logistic regression,
+Decision tree , 
+Random forest, 
+KNN & 
+SVM 
+to the same dataset and find :-
 1] Accuracy of each model
 2] Confusion matrix
 3] Classification report
