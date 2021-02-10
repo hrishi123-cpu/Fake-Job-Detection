@@ -10,6 +10,7 @@ The Target variable is “fraudulent”.
 We have to clean the data and apply all the algorithms to our model and check which one gives maximum accuracy.
 
 Perform the following using “fake_job_postings.csv” 
+Steps:
 1)	Read the csv file and find df.shape, df.describe().
 2)	Preprocess the data:-
 1] Check the null values from the dataset
